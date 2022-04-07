@@ -1,0 +1,8 @@
+# Visual Studio files
+*.user
+
+# Visual Studio directories
+.vs/
+bin/
+obj/
+Properties/
